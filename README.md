@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Niharika Singh  
 
-<!--
-**niharikaSinghh/niharikaSinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer | PHP Enthusiast | Problem Solver**  
 
-Here are some ideas to get you started:
+I'm a passionate web developer who loves building **dynamic, user-friendly, and scalable applications** using **PHP, MySQL, HTML, CSS, and JavaScript**. I enjoy transforming ideas into reality through clean and efficient code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do  
+- 🔧 Develop backend systems with **PHP & MySQL**  
+- 🎨 Craft responsive and modern UI with **HTML, CSS, JS**  
+- 🔌 Integrate APIs & backend services  
+- 📚 Explore new tools and frameworks to improve my craft  
+
+---
+
+## 🌱 Currently Exploring  
+- ⚡ Modern PHP frameworks like **Laravel**  
+- 🔗 Building and consuming **RESTful APIs**  
+- ☁️ Basics of **Cloud deployment & DevOps**  
+
+---
+
+## 📫 Connect With Me  
+💼 [LinkedIn](https://www.linkedin.com/in/niharika-singh-0b9411298/)  
+📧 **niharika.singh9931@gmail.com**  
