@@ -6,6 +6,14 @@ I'm a Computer Science Engineering graduate passionate about turning raw data in
 
 ---
 
+## 🌐 Portfolio
+
+🚀 **Portfolio Website:** https://your-portfolio-link.vercel.app
+
+Explore my projects, certifications, technical skills, and experience in one place.
+
+---
+
 ## 🚀 What I Do
 
 - 📊 Analyze and clean data using Python and SQL
@@ -19,11 +27,11 @@ I'm a Computer Science Engineering graduate passionate about turning raw data in
 
 ## 🛠️ Technical Skills
 
-**Languages**
+### Languages
 - Python
 - SQL
 
-**Data Analytics**
+### Data Analytics
 - Data Cleaning
 - Data Transformation
 - Exploratory Data Analysis (EDA)
@@ -32,7 +40,7 @@ I'm a Computer Science Engineering graduate passionate about turning raw data in
 - KPI Analysis
 - Data Reporting
 
-**Tools**
+### Tools
 - Power BI
 - Microsoft Excel
 - Power Query
@@ -42,11 +50,11 @@ I'm a Computer Science Engineering graduate passionate about turning raw data in
 - VS Code
 - Git & GitHub
 
-**Databases**
+### Databases
 - MySQL
 - PostgreSQL
 
-**Cloud**
+### Cloud
 - AWS Cloud (Cloud Practitioner)
 
 ---
@@ -91,8 +99,10 @@ I'm a Computer Science Engineering graduate passionate about turning raw data in
 
 ## 📫 Connect With Me
 
+🌐 **Portfolio:** https://your-portfolio-link.vercel.app
+
 💼 **LinkedIn:** https://www.linkedin.com/in/niharika-singh-0b9411298/
 
 📧 **Email:** niharika.singh9931@gmail.com
 
-⭐ *Always open to Data Analyst, Business Intelligence, and Cloud opportunities.*
+⭐ **Open to Data Analyst, Business Intelligence, AWS Cloud, and Data Analytics opportunities.**
