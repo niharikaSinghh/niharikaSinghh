@@ -80,7 +80,6 @@ Explore my projects, certifications, technical skills, and experience in one pla
 
 ## 🏆 Certifications
 
-- AWS Certified Cloud Practitioner (CLF-C02)
 - Infosys AWS Cloud Computing Certificate
 - NPTEL Cloud Computing (Top 1% Scorer)
 - Meta Programming in Python Certificate
