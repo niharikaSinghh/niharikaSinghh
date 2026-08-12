@@ -6,38 +6,23 @@
 
 </p>
 
-> 💡 **Turning data into insights and ideas into scalable cloud solutions.**
+<p align="center">
 
-I'm a **2026 Computer Science Engineering graduate** focused on **Data Analytics, Business Intelligence, and AWS Cloud**.
+> 💡 **Turning raw data into meaningful insights and building scalable cloud solutions.**
 
-I enjoy working across the complete journey:
-
-**Raw Data → SQL/Python → Analysis → Dashboard → Business Insight**
-
-and
-
-**Application → AWS → Automation → CI/CD → Deployment**
+</p>
 
 ---
 
 # 🎯 About Me
 
-- 🎓 2026 Computer Science Engineering Graduate
-- 📊 Interested in **Data Analytics & Business Intelligence**
-- ☁️ Building hands-on projects with **AWS Cloud**
-- 🐍 Using **Python & SQL** for data analysis
-- 📈 Creating interactive dashboards with **Power BI**
-- 🛠️ Working with **Git, GitHub, Docker & Linux**
-- 🚀 Building practical cloud and full-stack projects
-- 💼 Open to **Data Analyst, BI Analyst & Cloud roles**
+I'm a **2026 Computer Science Engineering graduate** focused on **Data Analytics, Business Intelligence, and AWS Cloud**.
 
----
-
-# 🧠 What I Build
-
-### 📊 Data Analytics
+I enjoy working across the complete journey of a technical solution:
 
 ```text
+📊 DATA ANALYTICS
+
 Raw Data
     ↓
 SQL / Python
