@@ -1,15 +1,12 @@
-````markdown
 # 👋 Hi, I'm Niharika Singh
 
 ### 📊 Data Analyst | ☁️ AWS Cloud | 🐍 Python
 
 > **Analyze data. Build systems. Automate the work.**
 
-I'm a 2026 Computer Science Engineering graduate passionate about turning
-raw data into meaningful insights and building practical cloud-based solutions.
+I'm a 2026 Computer Science Engineering graduate passionate about turning raw data into meaningful insights and building practical cloud-based solutions.
 
-I work with **Python, SQL, Power BI, Excel, and AWS** to analyze data,
-create interactive dashboards, automate workflows, and build real-world projects.
+I work with **Python, SQL, Power BI, Excel, and AWS** to analyze data, create interactive dashboards, automate workflows, and build real-world projects.
 
 ---
 
@@ -45,7 +42,7 @@ create interactive dashboards, automate workflows, and build real-world projects
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 
@@ -105,118 +102,3 @@ AWS
       ├── Docker
       ├── Terraform
       └── GitHub Actions
-````
-
----
-
-## 📊 Data Analytics Workflow
-
-```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-SQL / Python
-   ↓
-Exploratory Data Analysis
-   ↓
-Business Insights
-   ↓
-Power BI Dashboard
-   ↓
-Data-Driven Decision
-```
-
----
-
-## 📈 Currently Building
-
-| Area                 | Focus                               |
-| -------------------- | ----------------------------------- |
-| 📊 Data Analytics    | Advanced SQL • Python • Power BI    |
-| ☁️ Cloud             | AWS • Infrastructure • Deployment   |
-| ⚙️ DevOps            | Docker • Terraform • CI/CD          |
-| 🏗️ Data Engineering | Pipelines • Cloud Data • Automation |
-
----
-
-## 🧠 Currently Learning
-
-* ☁️ AWS Cloud Architecture
-* ⚙️ Infrastructure as Code with Terraform
-* 🐳 Docker & CI/CD
-* 📊 Advanced SQL & Data Analytics
-* 🏗️ Data Engineering fundamentals
-* 🔐 Cloud Security fundamentals
-
----
-
-## 🎯 Career Focus
-
-```text
-DATA ANALYST
-     │
-     ├── SQL
-     ├── Python
-     ├── Power BI
-     └── Business Intelligence
-
-           +
-
-CLOUD ENGINEER
-     │
-     ├── AWS
-     ├── Linux
-     ├── Docker
-     ├── Terraform
-     └── CI/CD
-
-           ↓
-
-     DATA + CLOUD
-     ─────────────
-     Building practical,
-     automated and scalable solutions.
-```
-
----
-
-## 💡 My Approach
-
-> **Good analysis explains what happened.
-> Great analysis explains why it happened and what to do next.**
-
-I believe strong technical work is not just about using more tools.
-
-It's about understanding the problem, choosing the right technology,
-building something useful, and continuously improving it.
-
----
-
-## 📚 Certifications & Learning
-
-* ☁️ AWS Cloud learning
-* 📊 Data Analytics & Business Intelligence
-* 🐍 Python Programming
-* 🗄️ SQL & Database Systems
-* ⚙️ Cloud & DevOps fundamentals
-
----
-
-## 🤝 Open To
-
-I'm interested in opportunities involving:
-
-**Data Analytics • Business Intelligence • AWS Cloud • Cloud Engineering •
-Data Engineering • Python • SQL • Power BI**
-
----
-
-## ⭐ Thanks for Visiting
-
-If you find something useful in my projects, feel free to explore the repositories.
-
-**Let's analyze data, build systems, and automate the work. 🚀**
-
-```
-```
