@@ -1,32 +1,51 @@
-👋 Hi, I'm Niharika Singh
+# 👋 Hi, I'm Niharika Singh
 
-📊 Data Analyst | ☁️ AWS Cloud | 🐍 Python | 🗄️ SQL | 📈 Power BI
+<p align="center">
 
-"Building data-driven solutions from raw data to business insights."
+### 📊 Data Analyst | ☁️ AWS Cloud | 🐍 Python | 🗄️ SQL | 📈 Power BI
 
-🎯 About Me
+</p>
 
-🧠 What I Build
-   ├── 📊 Data Analytics
-   └── ☁️ Cloud & Deployment
+> 💡 **Turning data into insights and ideas into scalable cloud solutions.**
 
-🛠️ Technical Skills
+I'm a **2026 Computer Science Engineering graduate** focused on **Data Analytics, Business Intelligence, and AWS Cloud**.
 
-📊 Featured Projects
-   ├── Blinkit Sales Dashboard
-   ├── HR Analytics Dashboard
-   ├── Netflix Analysis
-   ├── AWS 3-Tier Application
-   ├── AWS Serverless Pipeline
-   └── Sweet Shop MERN
+I enjoy working across the complete journey:
 
-🏗️ Cloud & Architecture
+**Raw Data → SQL/Python → Analysis → Dashboard → Business Insight**
 
-📜 Certifications
+and
 
-🌱 Currently Learning
+**Application → AWS → Automation → CI/CD → Deployment**
 
-📈 GitHub Stats
+---
 
-🤝 Let's Connect
-   LinkedIn | Portfolio | Email | GitHub
+# 🎯 About Me
+
+- 🎓 2026 Computer Science Engineering Graduate
+- 📊 Interested in **Data Analytics & Business Intelligence**
+- ☁️ Building hands-on projects with **AWS Cloud**
+- 🐍 Using **Python & SQL** for data analysis
+- 📈 Creating interactive dashboards with **Power BI**
+- 🛠️ Working with **Git, GitHub, Docker & Linux**
+- 🚀 Building practical cloud and full-stack projects
+- 💼 Open to **Data Analyst, BI Analyst & Cloud roles**
+
+---
+
+# 🧠 What I Build
+
+### 📊 Data Analytics
+
+```text
+Raw Data
+    ↓
+SQL / Python
+    ↓
+Data Cleaning
+    ↓
+Exploratory Data Analysis
+    ↓
+Power BI / Excel
+    ↓
+Business Insights
