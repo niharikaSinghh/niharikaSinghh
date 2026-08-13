@@ -52,6 +52,8 @@ SQL / Python
    ↓
 Data Analysis
    ↓
-Power BI Dashboard
+Power BI / Excel Dashboard
    ↓
 Business Insights
+   ↓
+Data-Driven Decisions
